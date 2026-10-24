@@ -1,3 +1,4 @@
+import csv
 data = [
     ["Patient_ID", "Weeks", "Trimester"],
     ["P001", 8, ""],
