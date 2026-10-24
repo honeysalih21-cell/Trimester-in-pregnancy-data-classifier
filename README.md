@@ -2,10 +2,17 @@
 
 This is a simple python program classifying pregnancy into trimesters based on gestational age in weeks. 
 
-## What the code does
-This Python script looks at a list of patients and how many weeks pregnant they are. It automatically figures out if they are in the First, Second, or Third trimester. Finally, it saves the results into a new file called `pregnancy_data.csv`.
-
-## How to use it
-To run this code, just open your terminal and type:
-python sample_data.py
+## Classification Rules
+1–13 weeks: First trimester
+14–27 weeks: Second trimester
+28–43 weeks: Third trimester
+Above 43 weeks: Post-term
+## How to Run
+Run the Python script.
+Enter gestational age in weeks when prompted.
+View the classification displayed on the screen.
+## Technology
+Python
+## Purpose
+To demonstrates basic Python conditional statements (if, elif, and else) using a pregnancy-related example.
 
