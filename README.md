@@ -10,7 +10,7 @@ This is a simple python program classifying pregnancy into trimesters based on g
 ## How to Run
 1. Run the Python script.
 2. Enter gestational age in weeks when prompted.
-3.View the classification displayed on the screen.
+3. View the classification displayed on the screen.
 ## Technology
 Python
 ## Purpose
